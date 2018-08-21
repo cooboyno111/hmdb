@@ -1,5 +1,4 @@
 # hmdb
-/*
  * Single java class NoSQL database USE java NIO
  
  * code by luqg
@@ -18,4 +17,3 @@
  * 16666 OPS/S.
  
  * use same as leveldb。
- */
