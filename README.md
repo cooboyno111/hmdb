@@ -1,5 +1,5 @@
 # hmdb
- * Single java class NoSQL database USE java NIO
+ * 多种语言实现的简单k/v DB。主要是用来思考db的底层实现。目前支持java，vala，js，golang。
  
  * code by luqg
  
